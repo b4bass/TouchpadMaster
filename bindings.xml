@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="TouchpadMaster Toggle" header="TouchpadMaster" category="TouchpadMaster AddOn" default="CTRL-SHIFT-M">
+        TouchpadMaster:ToggleTouchpadMaster()
+    </Binding>
+</Bindings>

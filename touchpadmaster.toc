@@ -1,0 +1,9 @@
+## Interface: 11507
+## Title: Touchpad Master
+## Notes: Leftclick-only mouselook and unit targeting  /touchpad help
+## Version: 1.0.0
+## Author: Bof
+## SavedVariables: 
+## Bindings: bindings.xml
+
+touchpadmaster.lua

@@ -1,0 +1,10 @@
+# Ignore everything
+*
+# But not these files...
+!touchpadmaster.lua
+!touchpadmaster.toc
+!bindings.xml
+!README.md
+# Don't track the .gitignore itself
+!.gitignore
+
